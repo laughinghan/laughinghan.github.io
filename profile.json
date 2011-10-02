@@ -1,0 +1,18 @@
+{
+	"settings" : {
+		"id" : "han",
+		"name" : "Han",
+		"avatar" : "http://en.gravatar.com/userimage/19592354/fd55d383bdaebfee6ce1bf443a7cdf48.jpeg",
+		"enable_search" : true
+	},
+	"content" : {
+		"github" : {
+			"title" : "GitHub Profile",
+			"content" : "http://github.com/laughinghan"
+		},
+		"mathquill" : {
+			"title" : "MathQuill",
+      "content" : "http://mathquill.com"
+		}
+	}
+}
